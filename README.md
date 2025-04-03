@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitalundalkar&label=Profile%20views&color=0e75b6&style=flat" alt="shitalundalkar" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **AI driven projects**
 
 - 🌱 I’m currently learning **Java**
 
